@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BaseTableViewController.h
 //  hoishow
 //
 //  Created by Jason on 15/8/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BaseTableViewController : UITableViewController
 
 @end
-
