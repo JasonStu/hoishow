@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"建立一个分支");
+    NSLog(@"建立分支");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
